@@ -2,6 +2,10 @@
 
 A [Zend Framework 2](https://github.com/zendframework) module for [Symfony Console](https://github.com/symfony/console)
 
+> ## Repository archived 2020-01-28
+>
+> This repository has moved to [riddlestone/brokkr-console](https://github.com/riddlestone/brokkr-console).
+
 ## Installation
 
 Installation of this module uses composer. For composer documentation, please refer to
